@@ -1,0 +1,47 @@
+body {
+  background-color: #393e46;
+  color: #f7f7f7;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #142850;
+  border-width: 5px;
+  width: 5%;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+thead {
+  font-weight: bold;
+}
+
+td {
+    padding: 3px 10px;
+}
+
+h1 {
+  color: #00a8cc;
+}
+
+h3 {
+  color: #0c7b93;
+}
+
+input {
+  background-color: #141B27;
+  border-style: none;
+  color: white;
+  margin: 5px;
+}
+
+img {
+  width: 100px;
+}
+
+img:hover {
+  border: 1px solid red;
+}
